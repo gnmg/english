@@ -1,0 +1,5 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/eikaiwa/public_html/laravel
+        - /bin/cp -r * $DEPLOYPATH
