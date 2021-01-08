@@ -21,7 +21,7 @@
     <!-- <link rel="stylesheet" href="/public/css/normalize.css">
     <link rel="stylesheet" href="/public/css/style.css">
     <!-- Style file for validation tooltip -->
-    <link rel="stylesheet" href="/public/css/validationEngine.css"> -->
+    <link rel="stylesheet" href="/public/css/validationEngine.css">
 
     <link rel="stylesheet" href="public/css/normalize.css">
     <link rel="stylesheet" href="public/css/style.css">
