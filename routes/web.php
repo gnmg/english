@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get(‘/css/{extra}’, function ($extra) {return redirect(“/public/css/$extra”);})->where(‘extra’, ‘.*’);
+Route::get(‘/css/{extra}’, function ($extra) {return redirect(“/public/css/$extra”);)}->where(‘extra’, ‘.*’);
